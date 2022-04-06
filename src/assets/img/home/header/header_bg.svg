@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="65px" viewBox="0 0 1920 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>header背景@2x</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0E1035" offset="0%"></stop>
+            <stop stop-color="#53ACF7" offset="56%"></stop>
+            <stop stop-color="#0E1035" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9997398%" y1="100%" x2="49.9997398%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#2573F5" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#2370F5" stop-opacity="0.3" offset="18%"></stop>
+            <stop stop-color="#0E1035" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-境内项目跟投" transform="translate(0.000000, -1.000000)">
+            <g id="header背景" transform="translate(0.000000, 1.000000)">
+                <polygon id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero" points="1202.98415 64.98 717.775314 64.98 698.798657 45.82 0 44.91 0 44 699.17839 44 718.155047 63.16 1202.60442 63.16 1221.67101 44 1920 44 1920 44.91 1222.05075 45.82"></polygon>
+                <polygon id="路径" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.3" points="697.988524 45.34 716.965181 64.5 1201.79429 64.5 1220.86088 45.34 1920 45.34 1920 3.69235892e-15 0 0 0 45.34"></polygon>
+                <g id="花纹" transform="translate(525.700000, 19.820000)">
+                    <g id="右侧花纹" transform="translate(647.360000, 0.000000)">
+                        <g id="条" fill="#3389F6" fill-rule="nonzero">
+                            <polygon id="路径" opacity="0.1" points="215.35 6.41 228.12 6.41 223.56 0.03 210.79 0.03"></polygon>
+                            <polygon id="路径" opacity="0.2" points="197.87 6.41 210.64 6.41 206.08 0.03 193.31 0.03"></polygon>
+                            <polygon id="路径" opacity="0.3" points="179.39 6.41 192.16 6.41 187.6 0.03 174.83 0.03"></polygon>
+                            <polygon id="路径" opacity="0.4" points="161.92 6.44 174.69 6.36 170.1 0 157.33 0.08"></polygon>
+                            <polygon id="路径" opacity="0.5" points="144.42 6.41 157.19 6.41 152.63 0.03 139.86 0.03"></polygon>
+                            <polygon id="路径" opacity="0.6" points="126.94 6.41 139.71 6.41 135.15 0.03 122.38 0.03"></polygon>
+                            <polygon id="路径" opacity="0.7" points="109.46 6.41 122.23 6.41 117.66 0.03 104.89 0.03"></polygon>
+                            <polygon id="路径" opacity="0.8" points="91.97 6.41 104.74 6.41 100.18 0.03 87.41 0.03"></polygon>
+                            <polygon id="路径" opacity="0.9" points="74.49 6.41 87.26 6.41 82.7 0.03 69.93 0.03"></polygon>
+                            <polygon id="路径" points="57.01 6.41 69.78 6.41 65.22 0.03 52.45 0.03"></polygon>
+                            <polygon id="路径" points="39.52 6.41 52.29 6.41 47.73 0.03 34.96 0.03"></polygon>
+                            <polygon id="路径" points="22.04 6.41 34.81 6.41 30.25 0.03 17.48 0.03"></polygon>
+                            <polygon id="路径" points="4.56 6.41 17.33 6.41 12.77 0.03 0 0.03"></polygon>
+                        </g>
+                        <g id="小条" transform="translate(46.560000, 27.390000)" fill="#53ACF7" fill-rule="nonzero" opacity="0.7">
+                            <polygon id="路径" points="83 6.39 86.65 6.39 93.04 -7.10542736e-15 89.39 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="76.09 6.39 79.74 6.39 86.12 -7.10542736e-15 82.47 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="69.17 6.39 72.82 6.39 79.2 -7.10542736e-15 75.55 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="62.25 6.39 65.9 6.39 72.28 -7.10542736e-15 68.64 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="55.33 6.39 58.98 6.39 65.37 -7.10542736e-15 61.72 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="48.42 6.39 52.07 6.39 58.45 -7.10542736e-15 54.8 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="41.5 6.39 45.15 6.39 51.53 -7.10542736e-15 47.89 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="34.58 6.39 38.23 6.39 44.62 -7.10542736e-15 40.97 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="27.67 6.39 31.31 6.39 37.7 -7.10542736e-15 34.05 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="20.75 6.39 24.4 6.39 30.78 -7.10542736e-15 27.13 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="13.83 6.39 17.48 6.39 23.86 -7.10542736e-15 20.22 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="6.91 6.39 10.56 6.39 16.95 -7.10542736e-15 13.3 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="0 6.39 3.65 6.39 10.03 -7.10542736e-15 6.38 -7.10542736e-15"></polygon>
+                        </g>
+                        <circle id="椭圆形" fill="#53ACF7" fill-rule="nonzero" cx="23.3" cy="28.3" r="1"></circle>
+                        <polyline id="路径" stroke="#53ACF7" stroke-width="0.5" opacity="0.8" points="95.81 24.2 90.8 18.27 45.19 18.27 35.15 28.31 23.3 28.31"></polyline>
+                        <polyline id="路径" stroke="#53ACF7" stroke-width="0.5" opacity="0.7" points="38.35 42.44 43.82 36.97 135.95 36.97 143.25 28.76 217.13 28.76 221.07 24.38"></polyline>
+                    </g>
+                    <g id="左侧花纹" transform="translate(0.000000, 0.030000)">
+                        <g id="条" transform="translate(2.940000, 0.000000)" fill="#3389F6" fill-rule="nonzero">
+                            <polygon id="路径" opacity="0.1" points="12.77 6.38 0 6.38 4.56 0 17.33 0"></polygon>
+                            <polygon id="路径" opacity="0.2" points="30.25 6.38 17.48 6.38 22.04 0 34.81 0"></polygon>
+                            <polygon id="路径" opacity="0.3" points="46.74 6.38 33.97 6.38 38.53 0 51.3 0"></polygon>
+                            <polygon id="路径" opacity="0.4" points="64.22 6.38 51.45 6.38 56.01 0 68.78 0"></polygon>
+                            <polygon id="路径" opacity="0.5" points="81.7 6.38 68.93 6.38 73.49 0 86.26 0"></polygon>
+                            <polygon id="路径" opacity="0.6" points="99.19 6.38 86.42 6.38 90.98 0 103.75 0"></polygon>
+                            <polygon id="路径" opacity="0.7" points="116.67 6.38 103.9 6.38 108.46 0 121.23 0"></polygon>
+                            <polygon id="路径" opacity="0.8" points="134.15 6.38 121.38 6.38 125.94 0 138.71 0"></polygon>
+                            <polygon id="路径" opacity="0.9" points="151.63 6.38 138.86 6.38 143.43 0 156.2 0"></polygon>
+                            <polygon id="路径" points="169.12 6.38 156.35 6.38 160.91 0 173.68 0"></polygon>
+                            <polygon id="路径" points="186.6 6.38 173.83 6.38 178.39 0 191.16 0"></polygon>
+                            <polygon id="路径" points="204.09 6.38 191.31 6.38 195.87 0 208.64 0"></polygon>
+                            <polygon id="路径" points="221.57 6.38 208.8 6.38 213.36 0 226.13 0"></polygon>
+                        </g>
+                        <g id="小条" transform="translate(81.470000, 27.360000)" fill="#53ACF7" fill-rule="nonzero" opacity="0.7">
+                            <polygon id="路径" points="10.03 6.39 6.38 6.39 -5.68434189e-14 -7.10542736e-15 3.65 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="16.95 6.39 13.3 6.39 6.91 -7.10542736e-15 10.56 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="23.86 6.39 20.22 6.39 13.83 -7.10542736e-15 17.48 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="30.78 6.39 27.13 6.39 20.75 -7.10542736e-15 24.4 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="37.7 6.39 34.05 6.39 27.67 -7.10542736e-15 31.32 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="44.62 6.39 40.97 6.39 34.58 -7.10542736e-15 38.23 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="51.53 6.39 47.89 6.39 41.5 -7.10542736e-15 45.15 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="58.45 6.39 54.8 6.39 48.42 -7.10542736e-15 52.07 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="65.37 6.39 61.72 6.39 55.33 -7.10542736e-15 58.98 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="72.29 6.39 68.64 6.39 62.25 -7.10542736e-15 65.9 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="79.2 6.39 75.56 6.39 69.17 -7.10542736e-15 72.82 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="86.12 6.39 82.47 6.39 76.09 -7.10542736e-15 79.73 -7.10542736e-15"></polygon>
+                            <polygon id="路径" points="93.04 6.39 89.39 6.39 83 -7.10542736e-15 86.65 -7.10542736e-15"></polygon>
+                        </g>
+                        <circle id="椭圆形" fill="#53ACF7" fill-rule="nonzero" cx="197.77" cy="28.27" r="1"></circle>
+                        <polyline id="路径" stroke="#53ACF7" stroke-width="0.5" opacity="0.8" points="125.25 24.17 130.27 18.24 175.88 18.24 185.91 28.28 197.77 28.28"></polyline>
+                        <polyline id="路径" stroke="#53ACF7" stroke-width="0.5" opacity="0.7" points="182.72 42.41 177.24 36.94 85.12 36.94 77.82 28.73 3.93 28.73 0 24.35"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
