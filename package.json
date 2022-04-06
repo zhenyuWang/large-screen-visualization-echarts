@@ -1,6 +1,13 @@
 {
   "name": "large-screen-visualization-echarts",
   "version": "0.0.1",
+  "description": "A Vue3 based out of the box large screen visual development framework",
+  "keywords": [
+    "koa",
+    "template",
+    "cli"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
