@@ -1,12 +1,12 @@
-import { UserConfigExport, ConfigEnv, loadEnv } from "vite";
-import vue from "@vitejs/plugin-vue";
-import { resolve } from "path";
-import viteImagemin from "vite-plugin-imagemin";
-import { viteExternalsPlugin } from "vite-plugin-externals";
+import { UserConfigExport, ConfigEnv, loadEnv } from "vite"
+import vue from "@vitejs/plugin-vue"
+import { resolve } from "path"
+import viteImagemin from "vite-plugin-imagemin"
+import { viteExternalsPlugin } from "vite-plugin-externals"
 
 // https://vitejs.dev/config/
 export default ({ mode }: ConfigEnv): UserConfigExport => {
-  const env = loadEnv(mode, process.cwd());
+  const env = loadEnv(mode, process.cwd())
   // 处理使用import.meta.env jest 测试报错问题
   const envWithProcessPrefix = Object.entries(env).reduce(
     (prev, [key, val]) => {
@@ -14,13 +14,13 @@ export default ({ mode }: ConfigEnv): UserConfigExport => {
         ...prev,
         // 环境变量添加process.env
         ["process.env." + key]: `"${val}"`,
-      };
+      }
     },
     {}
-  );
+  )
 
   // 生产环境
-  const proxyTarget = "http://litongkang.natapp1.cc";
+  const proxyTarget = "http://litongkang.natapp1.cc"
   // 测试环境
   // const proxyTarget = "http://10.1.69.118:8811";
   // 仝康本地
@@ -108,7 +108,7 @@ export default ({ mode }: ConfigEnv): UserConfigExport => {
                 .toString()
                 .split("node_modules/")[1]
                 .split("/")[0]
-                .toString();
+                .toString()
             }
           },
         },
@@ -117,5 +117,5 @@ export default ({ mode }: ConfigEnv): UserConfigExport => {
       chunkSizeWarningLimit: 300,
     },
     define: envWithProcessPrefix,
-  };
-};
+  }
+}

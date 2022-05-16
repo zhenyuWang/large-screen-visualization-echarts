@@ -8,7 +8,9 @@
         </div>
       </div>
       <div class="right c5aaafb">
-        <span @click="changeFullScreen">{{ isFullScreen ? "退出全屏" : "全屏" }}</span>
+        <span @click="changeFullScreen">{{
+          isFullScreen ? "退出全屏" : "全屏"
+        }}</span>
         数据日期: {{ date }}
       </div>
     </div>
@@ -32,7 +34,9 @@ const changeFullScreen = () => {
 }
 
 const now = new Date()
-const date = `${now.getFullYear()}年${addZero(now.getMonth() + 1)}月${addZero(now.getDate())}日`
+const date = `${now.getFullYear()}年${addZero(now.getMonth() + 1)}月${addZero(
+  now.getDate()
+)}日`
 </script>
 <style lang="scss" scoped>
 .header {
